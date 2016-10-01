@@ -1,4 +1,6 @@
 {
+  "name": "gotrecillo/extractor",
+  "description": "Simple way to prepare arrays for an safe an clean use of the extract php method",
   "require-dev": {
     "phpunit/phpunit": "5.5.*"
   },
