@@ -29,4 +29,9 @@ class Extractor {
 
         return $filtered;
     }
+
+    public function isValidVariableName($name)
+    {
+        return (boolean) preg_match('/^[a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*$/', $name);
+    }
 }

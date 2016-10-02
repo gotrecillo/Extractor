@@ -1,11 +1,11 @@
 {
   "name": "gotrecillo/extractor",
-  "description": "Simple way to prepare arrays for an safe an clean use of the extract php method",
-  "require-dev": {
-    "phpunit/phpunit": "5.5.*"
-  },
+  "description": "Simple way to prepare arrays for a safe and clean use of the extract php method",
   "config": {
     "bin-dir": "bin"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.5.*"
   },
   "autoload": {
     "psr-4": {
