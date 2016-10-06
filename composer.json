@@ -1,6 +1,7 @@
 {
   "name": "gotrecillo/extractor",
   "description": "Simple way to prepare arrays for a safe and clean use of the extract php method",
+  "version": "1.0.0",
   "config": {
     "bin-dir": "bin"
   },
